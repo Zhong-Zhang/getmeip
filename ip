@@ -1,4 +1,4 @@
-U2FsdGVkX1/MjMH890c/3fXcS6F7bWbz+/OECbbu
-2020年 08月 15日 星期六 04:00:02 CST
-echo U2FsdGVkX1/MjMH890c/3fXcS6F7bWbz+/OECbbu | openssl aes-128-cfb -d -pbkdf2 -base64 -k key
+U2FsdGVkX1+8sNgzSMQjU3IosTo21dDBYzr+4+3v
+2020年 08月 15日 星期六 05:00:02 CST
+echo U2FsdGVkX1+8sNgzSMQjU3IosTo21dDBYzr+4+3v | openssl aes-128-cfb -d -pbkdf2 -base64 -k key
 Please contact me if you see any weird output.
