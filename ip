@@ -1,4 +1,4 @@
-U2FsdGVkX1/9jgUOiccWu71sAWQ02rKxjt8VO2KQ
-2020年 12月 07日 星期一 12:00:02 CST
-echo U2FsdGVkX1/9jgUOiccWu71sAWQ02rKxjt8VO2KQ | openssl aes-128-cfb -d -pbkdf2 -base64 -k key
+U2FsdGVkX1+w+ej7tLus+aZuqsw9gqqz9KYlYWU5
+2020年 12月 07日 星期一 13:00:02 CST
+echo U2FsdGVkX1+w+ej7tLus+aZuqsw9gqqz9KYlYWU5 | openssl aes-128-cfb -d -pbkdf2 -base64 -k key
 Please contact me if you see any weird output.
