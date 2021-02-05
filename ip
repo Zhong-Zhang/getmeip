@@ -1,4 +1,4 @@
-U2FsdGVkX18aiF7yoSO9CtwuF1j91R3CUrrZx6Tz
-2021年 02月 05日 星期五 15:00:01 CST
-echo U2FsdGVkX18aiF7yoSO9CtwuF1j91R3CUrrZx6Tz | openssl aes-128-cfb -d -pbkdf2 -base64 -k key
+U2FsdGVkX1+Xb39JCetD25w=
+2021年 02月 05日 星期五 16:02:11 CST
+echo U2FsdGVkX1+Xb39JCetD25w= | openssl aes-128-cfb -d -pbkdf2 -base64 -k key
 Please contact me if you see any weird output.
